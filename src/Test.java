@@ -13,6 +13,7 @@ public class Test {
         JDialog dialog = new JDialog(statFrame,true);
 
 
+        
         JLabel label = new JLabel("Collect your Bill...");
         label.setFont(new Font("Arial",Font.BOLD,25));
         dialog.setLayout(new FlowLayout());
