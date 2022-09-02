@@ -6,7 +6,7 @@ public class Test {
     {
         Database db  = new Database();
 
-//        db.insertCustomer("Nikhil Dev",1332.2);
+      
         StatFrame statFrame = new StatFrame();
         statFrame.setVisible(true);
 
